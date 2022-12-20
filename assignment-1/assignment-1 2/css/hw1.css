@@ -1,0 +1,40 @@
+header{
+    background-color: rgb(178,179,179);
+}
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    color: #ffffff;
+    font-size: 40px;
+}
+
+h2{
+    color: #00008b;
+    text-transform: uppercase;
+    font-size: 30px;
+}
+section{
+    background-color: rgb(126,127,126);
+}
+img{
+    display: none;
+}
+a{
+    background-color: #9e9e9f;
+    text-align: center;
+    color: #000000;
+    font-weight: bold;
+}
+p{
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    color: #020202;
+}
+th{
+    text-align: left;
+}
+table, td, th {
+    border: 1px solid DimGray;
+}
+table {
+    border-collapse: collapse;
+}
